@@ -88,10 +88,6 @@ Given the set of clusters that have been identified, the three algorithms can be
 2.	Expansion or External Connectivity (nodes with edges outside the community)
 3.	Conductance (ratio of expansion over the sum of Internal Edge Density and Expansion)
 
-<img src=https://user-images.githubusercontent.com/32619706/157386770-94337217-49a2-4ec6-9f3a-9a5f1d1ce4b0.png>
+<img src=https://user-images.githubusercontent.com/32619706/157387239-2c2a903f-c0fa-45d9-b6f1-6e82108d5eb8.png>
 
 Girvan & Newman resulted in some communities with very low internal edge density and very high expansion, which are not desired. On the contrary, Louvain and InfoMap created some communities with decent size and low conductance.
-
-
-
-
