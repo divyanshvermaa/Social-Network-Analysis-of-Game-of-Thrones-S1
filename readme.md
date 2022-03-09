@@ -1,5 +1,5 @@
 
-# Social Network Analysis of Game of Thrones S1
+# Social Network Analysis of Game of Thrones: Season 1
 <div align="right"><i>Year: 2021</i></div>
 <img src="https://i.imgur.com/QDW5DIH.png">
 Performed social network analysis of Game of Thrones: Season 1, one of the most popular fantasy drama television series of all time. The results obtained were observed to be coherent with the actual plot to a great extent.
