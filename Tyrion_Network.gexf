@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-03-09">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Kevan" label="Kevan" />
+      <node id="Jaime" label="Jaime" />
+      <node id="Mord" label="Mord" />
+      <node id="Cersei" label="Cersei" />
+      <node id="Benjen" label="Benjen" />
+      <node id="Tyrion" label="Tyrion" />
+      <node id="Ned" label="Ned" />
+      <node id="Bronn" label="Bronn" />
+      <node id="Jon" label="Jon" />
+      <node id="Robb" label="Robb" />
+      <node id="Theon" label="Theon" />
+      <node id="Bran" label="Bran" />
+      <node id="Shagga" label="Shagga" />
+      <node id="Catelyn" label="Catelyn" />
+      <node id="Ros" label="Ros" />
+      <node id="Lysa" label="Lysa" />
+      <node id="Joffrey" label="Joffrey" />
+      <node id="Hound" label="Hound" />
+      <node id="Robin" label="Robin" />
+      <node id="Shae" label="Shae" />
+      <node id="Jeor" label="Jeor" />
+    </nodes>
+    <edges>
+      <edge source="Kevan" target="Tyrion" id="0">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Kevan" target="Shagga" id="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Jaime" target="Ned" id="2">
+        <attvalues>
+          <attvalue for="0" value="53" />
+        </attvalues>
+      </edge>
+      <edge source="Jaime" target="Tyrion" id="3">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </edge>
+      <edge source="Jaime" target="Jon" id="4">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Jaime" target="Robb" id="5">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Jaime" target="Joffrey" id="6">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Jaime" target="Kevan" id="7">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Jaime" target="Ros" id="8">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Jaime" target="Theon" id="9">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Mord" target="Tyrion" id="10">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge source="Mord" target="Robin" id="11">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Ned" id="12">
+        <attvalues>
+          <attvalue for="0" value="86" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Joffrey" id="13">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Jaime" id="14">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Tyrion" id="15">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Robb" id="16">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Hound" id="17">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Jon" id="18">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Jeor" id="19">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Cersei" target="Ros" id="20">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Benjen" target="Jon" id="21">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge source="Benjen" target="Tyrion" id="22">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Benjen" target="Ned" id="23">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Benjen" target="Robb" id="24">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Benjen" target="Catelyn" id="25">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Benjen" target="Cersei" id="26">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Benjen" target="Jeor" id="27">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Ned" target="Robb" id="28">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Ned" target="Theon" id="29">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Ned" target="Tyrion" id="30">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Ned" target="Ros" id="31">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Bronn" target="Tyrion" id="32">
+        <attvalues>
+          <attvalue for="0" value="86" />
+        </attvalues>
+      </edge>
+      <edge source="Bronn" target="Shae" id="33">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Bronn" target="Catelyn" id="34">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Bronn" target="Lysa" id="35">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Bronn" target="Shagga" id="36">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Bronn" target="Mord" id="37">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Bronn" target="Robin" id="38">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Bronn" target="Kevan" id="39">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Jon" target="Tyrion" id="40">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </edge>
+      <edge source="Jon" target="Ned" id="41">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge source="Jon" target="Robb" id="42">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="Jon" target="Theon" id="43">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Jon" target="Ros" id="44">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Robb" target="Theon" id="45">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </edge>
+      <edge source="Robb" target="Tyrion" id="46">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Theon" target="Tyrion" id="47">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Robb" id="48">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Ned" id="49">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Catelyn" id="50">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Theon" id="51">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Jon" id="52">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Tyrion" id="53">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Jaime" id="54">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Cersei" id="55">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Bran" target="Hound" id="56">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Shagga" target="Tyrion" id="57">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Robb" id="58">
+        <attvalues>
+          <attvalue for="0" value="90" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Ned" id="59">
+        <attvalues>
+          <attvalue for="0" value="69" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Tyrion" id="60">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Lysa" id="61">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Jaime" id="62">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Cersei" id="63">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Theon" id="64">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Jon" id="65">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Robin" id="66">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Mord" id="67">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Joffrey" id="68">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Catelyn" target="Hound" id="69">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Ros" target="Theon" id="70">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge source="Ros" target="Tyrion" id="71">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Lysa" target="Robin" id="72">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge source="Lysa" target="Tyrion" id="73">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge source="Lysa" target="Mord" id="74">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Joffrey" target="Ned" id="75">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </edge>
+      <edge source="Joffrey" target="Tyrion" id="76">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Joffrey" target="Robb" id="77">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Joffrey" target="Jon" id="78">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hound" target="Joffrey" id="79">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Hound" target="Ned" id="80">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Hound" target="Tyrion" id="81">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Hound" target="Jaime" id="82">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hound" target="Robb" id="83">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Robin" target="Tyrion" id="84">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Shae" target="Tyrion" id="85">
+        <attvalues>
+          <attvalue for="0" value="73" />
+        </attvalues>
+      </edge>
+      <edge source="Jeor" target="Jon" id="86">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </edge>
+      <edge source="Jeor" target="Tyrion" id="87">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Jeor" target="Ned" id="88">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Jeor" target="Joffrey" id="89">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
