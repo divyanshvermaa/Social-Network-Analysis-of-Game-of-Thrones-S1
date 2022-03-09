@@ -20,13 +20,13 @@ If we were to plot the network as-is, without the character names, or the labels
 
 Expectedly, there are a lot of interactions between the characters, owing to the reasons stated previously: multiple plots being interweaved throughout the season. To understand which characters were most often the source or target, without former knowledge of the show, in- and out-degrees can be used:
 
-<img src=https://user-images.githubusercontent.com/32619706/157382572-6b2c87ab-38a8-4bbf-805f-55fb1cdbc404.png width="600">
+<img src=https://user-images.githubusercontent.com/32619706/157382572-6b2c87ab-38a8-4bbf-805f-55fb1cdbc404.png>
 
 This matches with what one would have expected – Tyrion was indeed one of the most important characters. Further, Catelyn’s role also becomes prominent in episodes 3-5.
 
 Having looked at some of the characters that had the most interactions: to and from, it can be observed that ‘Ned’ appeared in the top five lists for both. Once again, this is expected, as Ned was indeed the most prominent character till the end of the first season. Let’s look at his part of the network:
 
-<img src=https://user-images.githubusercontent.com/32619706/157383041-ce2565c2-6de4-4a11-b1ae-e887ad5015e9.png width="600">
+<img src=https://user-images.githubusercontent.com/32619706/157383041-ce2565c2-6de4-4a11-b1ae-e887ad5015e9.png>
 
 Tyrion Lannister’s subgraph also depicts something similar, while Cersei Lannister’s subgraph – given her involvement was not as much – suggests limited interaction; these can be seen in the notebook. For each of these characters, the predecessors (source characters), and successors (target characters) were extracted. Finally, the interactions between the characters based on the path traversed in moving through the nodes were also derived.
 
