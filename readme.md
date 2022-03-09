@@ -8,7 +8,6 @@ The dataset for performing analysis was obtained from [here](https://github.com/
 
 These interactions are seen as links between the characters. They have been extracted from fan-authored scripts. The fact that the links depend directly on the script, and hence verbal interaction between the characters, gives more importance to communication than battle scenes with no dialogues.
 
-
 ## Nodes, Edges, Subgraphs, Neighbors, and Paths
 The nodes would be the unique characters for our network, including both Source and Target. In the case of Season 1, there are 126 nodes or 126 characters among whom the interactions are recorded. The edges are these interactions between the characters, represented from Source to Target. 
 
@@ -26,7 +25,7 @@ This matches with what one would have expected – Tyrion was indeed one of the 
 
 Having looked at some of the characters that had the most interactions: to and from, it can be observed that ‘Ned’ appeared in the top five lists for both. Once again, this is expected, as Ned was indeed the most prominent character till the end of the first season. Let’s look at his part of the network:
 
-<img src=https://user-images.githubusercontent.com/32619706/157383041-ce2565c2-6de4-4a11-b1ae-e887ad5015e9.png>
+<img src=https://user-images.githubusercontent.com/32619706/157384816-993e9c79-0148-4f38-b7c1-a4572e739351.png>
 
 Tyrion Lannister’s subgraph also depicts something similar, while Cersei Lannister’s subgraph – given her involvement was not as much – suggests limited interaction; these can be seen in the notebook. For each of these characters, the predecessors (source characters), and successors (target characters) were extracted. Finally, the interactions between the characters based on the path traversed in moving through the nodes were also derived.
 
